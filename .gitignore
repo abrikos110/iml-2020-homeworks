@@ -1,0 +1,4 @@
+.git
+.gitignore.swp
+.ipynb_checkpoints
+MNIST-dataset
